@@ -19,9 +19,9 @@
 		{
 			"RadiusDamage"
 			{
-				"windows"	"68"
-				"linux"		"69"
-				"mac"		"69"
+				"windows"	"69"
+				"linux"		"70"
+				"mac"		"70"
 			}
 		}
 	}
